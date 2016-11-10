@@ -1,0 +1,4 @@
+*.sublime-workspace
+*/app/*.js
+*/app/*.map
+**/node_modules
